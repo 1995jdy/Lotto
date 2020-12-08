@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\FinalTest\FinalTest\bin\Debug\FinalTest.exe.config
+C:\Users\pc\source\repos\FinalTest\FinalTest\bin\Debug\FinalTest.exe
+C:\Users\pc\source\repos\FinalTest\FinalTest\bin\Debug\FinalTest.pdb
+C:\Users\pc\source\repos\FinalTest\FinalTest\bin\Debug\WebDriver.dll
+C:\Users\pc\source\repos\FinalTest\FinalTest\bin\Debug\WebDriver.xml
+C:\Users\pc\source\repos\FinalTest\FinalTest\obj\Debug\FinalTest.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\FinalTest\FinalTest\obj\Debug\FinalTest.Form1.resources
+C:\Users\pc\source\repos\FinalTest\FinalTest\obj\Debug\FinalTest.Properties.Resources.resources
+C:\Users\pc\source\repos\FinalTest\FinalTest\obj\Debug\FinalTest.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\FinalTest\FinalTest\obj\Debug\FinalTest.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\FinalTest\FinalTest\obj\Debug\FinalTest.csproj.CopyComplete
+C:\Users\pc\source\repos\FinalTest\FinalTest\obj\Debug\FinalTest.exe
+C:\Users\pc\source\repos\FinalTest\FinalTest\obj\Debug\FinalTest.pdb
